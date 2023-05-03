@@ -1,6 +1,6 @@
 - 🔭 Hoje estou trabalhando com back-end e front-end
-- 🌱 Estudando Java
-- 😄 Pronouns: ela/she
+- 💼 Empreendedora de software 
+- 😄 Apaixonada por desafios de novos aprendizados
 
 <div>
   <a href="https://github.com/querenneves">
