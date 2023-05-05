@@ -1,6 +1,6 @@
 - 🔭 Hoje estou trabalhando com back-end e front-end
 - 💼 Empreendedora de software 
-- 😄 Apaixonada por desafios de novos aprendizados
+- 😄 Apaixonada por desafios e novos aprendizados
 
 <div>
   <a href="https://github.com/querenneves">
