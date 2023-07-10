@@ -1,6 +1,7 @@
 - 🔭 Hoje estou trabalhando com back-end e front-end
-- 💼 Empreendedora de software 
+- 💼 Desenvolvedora web / Android
 - 😄 Apaixonada por desafios e novos aprendizados
+- Contatos: +55 (11) 97851 - 4434 / orcamentosqneves@outlook.com
 
 <div>
   <a href="https://github.com/querenneves">
