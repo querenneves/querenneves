@@ -1,5 +1,5 @@
 - 🔭 Hoje estou trabalhando com back-end e front-end
-- 💼 Desenvolvedora web / Android
+- 💼 Desenvolvedora web
 - 😄 Apaixonada por desafios e novos aprendizados
 
 <div>
