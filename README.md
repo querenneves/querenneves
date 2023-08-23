@@ -1,4 +1,4 @@
-- 🔭 Hoje estou trabalhando com back-end e front-end
+- 🔭 Buscando me tornar uma especialista em JavaScript
 - 💼 Desenvolvedora web
 - 😄 Apaixonada por desafios e novos aprendizados
 
