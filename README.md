@@ -1,6 +1,6 @@
 
 - 💼 Desenvolvedora web
-- 😄 Apaixonada por desafios e novos aprendizados
+- 🤓 Nerd de quebrada
 
 <div>
   <a href="https://github.com/querenneves">
