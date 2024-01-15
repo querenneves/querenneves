@@ -1,5 +1,5 @@
 
-- 💼 Desenvolvedora web
+- 💼 Desenvolvedora web / Analista
 - 🤓 Nerd de quebrada
 
 <div>
