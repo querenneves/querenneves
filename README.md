@@ -1,6 +1,7 @@
 
 - 💼 Desenvolvedora web / Analista
 - 🤓 Nerd de quebrada
+- 🤸🏾‍♀️ Capoeira é uma arte
 
 <div>
   <a href="https://github.com/querenneves">
