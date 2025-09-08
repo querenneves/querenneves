@@ -1,7 +1,7 @@
 
-- 💼 Desenvolvedora web / Analista
+- 💼 Em transição para area de dados
 - 🤓 Nerd de quebrada
-- 🤸🏾‍♀️ Capoeira é uma arte
+- 🤸🏾‍♀️ Salve Capoeira
 
 <div>
   <a href="https://github.com/querenneves">
