@@ -1,5 +1,6 @@
 
--  Dados 🎲
+-  Analista de Dados 🎲
+-  Apaixonoda por tecnologia e soluções digitais
 
 <div>
   <a href="https://github.com/querenneves">
